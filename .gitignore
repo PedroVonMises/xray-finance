@@ -1,0 +1,10 @@
+# real statements never leave the machine (ADR-005)
+fixtures/real/
+
+node_modules/
+.next/
+.env*
+!.env.example
+coverage/
+playwright-report/
+test-results/
